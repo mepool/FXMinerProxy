@@ -1,6 +1,6 @@
 #linux一键安装脚本
 
-bash <(curl -s -L https://raw.githubusercontent.com/mepool/FXMinerProxy/main/install_yang.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/mepool/FXMinerProxy/main/install.sh)
 
 #windows下载地址
 
