@@ -1,4 +1,5 @@
-#linux一键安装脚本
+```bash
+# 一键安装
 
 bash <(curl -s -L https://raw.githubusercontent.com/mepool/FXMinerProxy/main/install.sh)
 
