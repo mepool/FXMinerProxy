@@ -3,10 +3,8 @@
 
 bash <(curl -s -L https://raw.githubusercontent.com/mepool/FXMinerProxy/main/install.sh)
 
-#windows下载地址
 
-https://github.com/mepool/FXMinerProxy/raw/main/FXMinerProxy-V3windows.zip
-
+## Windows 直接下载运行 <a href="https://github.com/mepool/FXMinerProxy/raw/main/FXMinerProxy-V3windows.zip</a></br>
 
 
 
