@@ -5,7 +5,9 @@ bash <(curl -s -L https://raw.githubusercontent.com/mepool/FXMinerProxy/main/ins
 
 ```
 
+## Windows 直接下载运行 <a href="https://github.com/mepool/FXMinerProxy/raw/main/FXMinerProxy-V3windows.zip</a></br>
 
+---
 ### Windows 直接下载运行 <a href="https://github.com/mepool/FXMinerProxy/raw/main/FXMinerProxy-V3windows.zip</a></br>
 
 
