@@ -1,6 +1,6 @@
 #bin
 apiKey='125325b45678e3f5a1b2'#这里输入你API KEY
-version='8.0.2'
+version='8.0.2'#下次更新版本改这里
 shell_version='3.1.3'
 uiname='FXMinerProxyV3-shell'
 pkgname='fxminerCustom'
