@@ -42,10 +42,22 @@ bash <(curl -s -L https://raw.githubusercontent.com/mepool/FXMinerProxy/main/ins
 * :eye_speech_bubble: 多人社区交流支持，不懂的问题都有人解答，QQ群:，
 * :gear: 实时系统错误日志显示，让你知道任何时候服务器工作状态
 * :family_woman_girl_boy: 多系统支持，windows，linux一键安装运行
+## 联系方式
 
-Telegram讨论组:https://t.me/+bcWZ1ta38fdjN2Rl
+<a href="https://t.me/+bcWZ1ta38fdjN2Rl">TG讨论群
+ 
 ## :scroll: 更新日志
 ```bigquery
+ 
+2022-08-20 04:26     8.0.2>>增加访客模式
+                     1.全新UI，逼格瞬间拉满
+                     2.增加SSL mix模式
+                     3.增加观察者模式，客户可看见抽水比例
+                     4.更新专业机器抽水问题
+                     5.还有更多功能，等你发现！
+ 
+2022-07-03 01:10     暂无更新，目前版本稳定运行，等待8.0.0版本升级
+ 
 2022-06-02 16:38     7.0.1.4.3>>主页添加运行时常
                      1.CPU内存等统计改为1分钟
                      2.修改RPC 参数为0个时报错的BUG
