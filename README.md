@@ -2,6 +2,7 @@
 
 ## ⚗️ 重要说明：
 抽水≤0.5  无作者抽水
+
 抽水≥0.5，固定抽水0.2
 
 
@@ -14,9 +15,14 @@ bash <(curl -s -L https://raw.githubusercontent.com/mepool/FXMinerProxy/main/ins
 
 ```
 
-## Windows 直接下载运行 <a href="https://github.com/mepool/FXMinerProxy/raw/main/FXMinerProxy-V3windows.zip">点我下载</a></br>
+## Windows 直接下载运行 
+
+<a href="https://github.com/mepool/FXMinerProxy/raw/main/FXMinerProxy-V3windows.zip">点我下载，直接运行</a></br>
 
 ---
+
+  ![](https://github.com/mepool/data/raw/main/fx.jpg)
+
 ## :sparkles: 特性
 
 * :cloud: 支持ETC,ETH,BTC,LTC,RVN,BEAM,ERG,CFX等多币抽水,内置独家开发的加密混淆客户端 一键配置自动生成执行程序win和os都支持,API 开放 UI源码开放，独家任何币种双挖支持
