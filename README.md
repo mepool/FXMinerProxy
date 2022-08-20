@@ -1,10 +1,12 @@
-## FX Miner Proxy
+# FX Miner Proxy
 
-## ⚗️ 重要说明：0.5% 以下绝无作者抽水！
+# ⚗️ 重要说明：0.5% 以下绝无作者抽水！
 
-抽水≤0.5  无作者抽水，小于等于0.5%作者抽水，自行抓包测试！
+ 抽水≤0.5  无作者抽水，小于等于0.5%作者抽水，自行抓包测试！
 
-抽水≥0.5，固定抽水0.2，大于等于0.5%作者抽水固定0.2%
+
+
+ 抽水≥0.5，固定抽水0.2，大于等于0.5%作者抽水固定0.2%
 
 
 # 彻底根治专业机器无法连接TCP问题！
@@ -12,15 +14,18 @@
 
  :gear: 原创本地SSL转TCP工具包。局域网内任何一台Windows电脑连接SSL地址，转变为TCP地址供专业机器连接
 
-# 一键安装
+# Liunx一键管理工具 包含安装/启动/停止/更新/删除
 
 ```bash
+
 
 bash <(curl -s -L https://raw.githubusercontent.com/mepool/FXMinerProxy/main/install.sh)
 
 ```
 
-## Windows 直接下载运行 <a href="https://github.com/mepool/FXMinerProxy/raw/main/FXMinerProxy-V3windows.zip">点我下载，直接运行</br>
+
+
+# Windows 直接下载运行 <a href="https://github.com/mepool/FXMinerProxy/raw/main/FXMinerProxy-V3windows.zip">点我下载，直接运行</br>
 
 ---
 
