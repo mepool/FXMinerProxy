@@ -1,7 +1,8 @@
 #bin
+#这里输入你API KEY
 apiKey='125325b45678e3f5a1b2'
 version='8.0.2'
-shell_version='3.1.3'
+shell_version='3.4'
 uiname='FXMinerProxyV3-shell'
 pkgname='fxminerCustom'
 authorname='FxPool'
@@ -235,7 +236,9 @@ start() {
             echo -e "${green}启动中..."
             cd $installdir
             sed -i 's/"is_open_general_swap": true/"is_open_general_swap": false/g' localconfig.json
-            setsid ./$wdog -apiKey $apiKey &
+            setsid ./$wdog -apikey $apiKey &
+             echo -e "${green}启动完成..."
+            echo -e $apiKey
             sleep 3
         fi
     fi
@@ -265,7 +268,7 @@ autorun() {
     echo "#" >>rc.local
     echo "# By default this script does nothing." >>rc.local
     echo "#exit 0" >>rc.local
-    echo "cd $installdir && setsid ./$sofname &" >>rc.local
+    echo "cd $installdir && ./$wdog -apikey $apiKey &" >>rc.local
     echo "exit 0" >>rc.local
     cd /root
     echo -e "${green}开机启动设置成功"
@@ -323,3 +326,4 @@ show_menu() {
     esac
 }
 show_menu
+
