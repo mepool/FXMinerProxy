@@ -1,6 +1,6 @@
 #bin
 apiKey='125325b45678e3f5a1b2'
-version='8.0.2'
+version='8.0.2.1'
 shell_version='3.4.1'
 uiname='FXMinerProxyV3-shell'
 pkgname='fxminerCustom'
