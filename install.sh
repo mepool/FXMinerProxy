@@ -1,5 +1,4 @@
 #bin
-#这里输入你API KEY
 apiKey='125325b45678e3f5a1b2'
 version='8.0.2'
 shell_version='3.4.1'
@@ -331,4 +330,3 @@ show_menu() {
     esac
 }
 show_menu
-
