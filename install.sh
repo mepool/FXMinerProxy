@@ -2,7 +2,7 @@
 #这里输入你API KEY
 apiKey='125325b45678e3f5a1b2'
 version='8.0.2'
-shell_version='3.4'
+shell_version='3.4.1'
 uiname='FXMinerProxyV3-shell'
 pkgname='fxminerCustom'
 authorname='FxPool'
@@ -213,6 +213,7 @@ update_app() {
             return
         else
             echo && echo -n -e "${yellow}更新完成,按回车启动,CTRL+C退出: ${plain}" && read temp
+            autorun
             start
         fi
     fi
@@ -291,9 +292,10 @@ show_menu() {
      ${green}5.${plain} 停止
      ${green}6.${plain} 查看linux最大连接
      ${green}7.${plain} linux大连接数改为65535(需重启服务器生效)
+     ${green}8.${plain} 手动设置开机启动
     
    "
-    echo && read -p "请输入选择 [0-7]: " num
+    echo && read -p "请输入选择 [0-8]: " num
 
     case "${num}" in
     0)
@@ -320,8 +322,11 @@ show_menu() {
     7)
         change_limit
         ;;
+    8)
+        autorun
+        ;;
     *)
-        echo -e "${red}请输入正确的数字 [0-7]${plain}"
+        echo -e "${red}请输入正确的数字 [0-8]${plain}"
         ;;
     esac
 }
