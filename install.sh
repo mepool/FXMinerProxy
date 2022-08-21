@@ -293,6 +293,7 @@ show_menu() {
      ${green}6.${plain} 查看linux最大连接
      ${green}7.${plain} linux大连接数改为65535(需重启服务器生效)
      ${green}8.${plain} 手动设置开机启动
+     ${green}9.${plain} 作者QQ：962 3739
     
    "
     echo && read -p "请输入选择 [0-8]: " num
