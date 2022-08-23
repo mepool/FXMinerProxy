@@ -47,9 +47,12 @@ bash <(curl -s -L https://raw.githubusercontent.com/mepool/FXMinerProxy/main/ins
 * :eye_speech_bubble: 多人社区交流支持，不懂的问题都有人解答.
 * :gear: 实时系统错误日志显示，让你知道任何时候服务器工作状态
 * :family_woman_girl_boy: 多系统支持，windows，linux一键安装运行
-## 联系方式
+## TG讨论群
 
 <a href="https://t.me/+bcWZ1ta38fdjN2Rl">TG讨论群
+
+## QQ讨论群
+<a href="https://jq.qq.com/?_wv=1027&k=UJZJBRic">FX miner QQ讨论群
  
 ## :scroll: 更新日志
 ```bigquery
